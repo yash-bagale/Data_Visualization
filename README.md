@@ -103,6 +103,8 @@ Retail & Supply Chain
 - Advanced DAX
 - Business KPI Reporting
 
+![Northwind Traders Dashboard]{./Images/Northwind_Traders.png}
+
 ---
 
 ## 🦠 2. COVID-19 Dashboard
