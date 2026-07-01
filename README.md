@@ -103,7 +103,7 @@ Retail & Supply Chain
 - Advanced DAX
 - Business KPI Reporting
 
-![Northwind Traders Dashboard]{./Images/Northwind_Traders.png}
+![Northwind Traders Dashboard](./Images/Northwind_Traders.png)
 
 ---
 
@@ -128,6 +128,8 @@ Worldwide COVID-19 Dataset
 - KPI Cards
 - Interactive Filters
 
+![Covid-19 Dashboard](./Images/Covid-19.png) 
+
 ---
 
 ## 🎬 3. Netflix Dashboard
@@ -148,6 +150,8 @@ Netflix Movies & TV Shows Dataset
 - Interactive Visualizations
 - Genre Analysis
 - Rating Analysis
+
+![Netflix Dashboard](./Images/Netflix.png)
 
 ---
 
@@ -170,6 +174,8 @@ Used Cars Dataset
 - Dynamic Filters
 - Comparative Analysis
 - Trend Visualizations
+
+![Cars Dashboard](./Images/Cars.png)
 
 ---
 
