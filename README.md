@@ -211,8 +211,3 @@ PowerBI-Dashboards/
 └── README.md
 ```
 
-
-
----
-
-⭐ If you found this repository useful, don't forget to Star it!
